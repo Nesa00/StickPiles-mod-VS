@@ -1,5 +1,6 @@
 winget install Gyan.FFmpeg
 py utils/video-convert.py -i media/video/demo.mp4 -o media/video/demo.webp
+py utils/video-convert.py -i media/video/demo1.mp4 -o media/video/demo1.webp
 
 py utils/3d.sw.py
 

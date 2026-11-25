@@ -10,7 +10,7 @@
           "layout": "Stacking",
           "ctrlKey": false,
           "stackingModel": "stickpiles:item/stick-pile",
-          "upSolid": false,
+          "upSolid": true,
           "modelItemsToStackSizeRatio": 6.0,
           "stackingCapacity": 64,
           "transferQuantity": 1,
